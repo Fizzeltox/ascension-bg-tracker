@@ -1,4 +1,5 @@
-# Ascension BG Tracker
+# Ascension BG Tracker (Addon)
 
->> Please visit Discussions <<
->> Create a GitHub account in order to comment and post in Discussions <<
+**Visit Discussions at the Top**
+<br><br>
+Create a GitHub account in order to comment and post in Discussions
